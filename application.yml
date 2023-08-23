@@ -1,0 +1,2 @@
+app.eureka-port: localhost
+app.eureka-server: 8761
