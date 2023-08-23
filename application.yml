@@ -1,2 +1,2 @@
-app.eureka-port: localhost
-app.eureka-server: 8761
+app.eureka-port: 8761
+app.eureka-server: localhost
